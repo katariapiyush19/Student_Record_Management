@@ -15,7 +15,7 @@ A simple console-based Student Record Management System built using the C langua
 
 ## 📂 Files
 
-- `main.c` – Contains the full source code
+- `program.c` – Contains the full source code
 - `Student_Record_Management.csv` – CSV file to store student data
 
 ---
